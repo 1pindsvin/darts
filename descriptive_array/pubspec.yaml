@@ -1,0 +1,5 @@
+name:  descriptive_array
+description:  A sample application
+    
+dependencies:
+  unittest: { sdk: unittest }
